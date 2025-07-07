@@ -2,6 +2,16 @@
 
 I'm a versatile developer who adapts to whatever the project demands—whether it's Full Stack Web Development 🌐, exploring System Designs 🎨, or working with MERN technology and Web3 🌐. I love diving into new tech stacks 💻 and using them to create innovative solutions 🛠️. Always eager to learn and build something impactful, I aim to leverage technology to solve real-world problems efficiently.
 
+
+### 📌 About Me
+
+- 🔭 I’m currently working on Full Stack Web Development
+- 🌱 I’m currently learning Web 3.0
+- 💬 Ask me about Tech Related topics, I'm happy to help
+- 🎨 I enjoy building and experimenting with new tech stacks
+- 📚 In my free time, I love reading books
+
+
 ### 🚀 Tech Stack
 
 #### 👨‍💻 Programming Languages
@@ -52,13 +62,6 @@ I'm a versatile developer who adapts to whatever the project demands—whether i
 
 ---
 
-### 📌 About Me
-
-- 🔭 I’m currently working on Full Stack Web Development
-- 🌱 I’m currently learning Web 3.0
-- 💬 Ask me about Tech Related topics, I'm happy to help
-- 🎨 I enjoy building and experimenting with new tech stacks
-- 📚 In my free time, I love reading books
 
 ---
 
@@ -66,4 +69,6 @@ I'm a versatile developer who adapts to whatever the project demands—whether i
 
 ![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-75-76&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-75-76&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akash-75-76&theme=dark&hide_border=true)
+
 
