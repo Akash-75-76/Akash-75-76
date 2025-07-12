@@ -70,6 +70,8 @@ I'm a versatile developer who adapts to whatever the project demands—whether i
 ![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-75-76&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-75-76&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Akash-75-76&theme=dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akash-75-76&theme=dracula)
+
 
 
 
