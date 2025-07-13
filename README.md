@@ -62,9 +62,6 @@ I'm a versatile developer who adapts to whatever the project demands—whether i
 
 ---
 
-
-
-
 ### 📊 GitHub Stats
 
 ![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-75-76&show_icons=true&theme=radical)
