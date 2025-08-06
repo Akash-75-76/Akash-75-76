@@ -6,7 +6,7 @@ I'm a versatile developer who adapts to whatever the project demands—whether i
 ### 📌 About Me
 
 - 🔭 I’m currently working on Full Stack Web Development
-- 🌱 I’m currently learning Web 3.0 and Spring Boot
+- 🌱 I’m currently learning Web 3.0 and Spring Boot and MicroServices
 - 💬 Ask me about Tech Related topics, I'm happy to help
 - 🎨 I enjoy building and experimenting with new tech stacks
 - 📚 In my free time, I love reading books.
