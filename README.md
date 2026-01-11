@@ -21,6 +21,11 @@ Always eager to learn and build something impactful, I aim to leverage technolog
 
 ---
 
+## 📄 Resume
+
+🔗 [View Resume (PDF)](https://drive.google.com/file/d/1hKaRWJrXrRPD5rNy92MuUFw2pezT1d3B/view?usp=sharing)
+
+
 ## 🌍 Open Source & Community
 
 - 🏅 **Selected Contributor – GirlScript Summer of Code (GSSoC)**
