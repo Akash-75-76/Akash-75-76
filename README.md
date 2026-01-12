@@ -121,11 +121,19 @@ Always eager to learn and build something impactful, I aim to leverage technolog
 
 ## 📊 GitHub Stats
 
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-75-76&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-75-76&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Akash-75-76&theme=dark&hide_border=true)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akash-75-76&theme=dracula)
-![Profile views](https://komarev.com/ghpvc/?username=akashdeshmukh&color=blue)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash-75-76&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-75-76&layout=compact&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akash-75-76&theme=dark&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-75-76&theme=dracula"/>
+</p>
+
 
 ---
 
