@@ -42,7 +42,7 @@ Always eager to learn and build something impactful, I aim to leverage technolog
 
 ## 🧾 Certifications
 
--☁️ **AWS Certified Cloud Practitioner**  
+- ☁️ **AWS Certified Cloud Practitioner**  
   https://drive.google.com/drive/folders/1lLV4u_roKC-rpppD9nfXBJRLMmiRmlij
 
 - 🚀 **AWS Cloud Practitioner Essentials**  
@@ -53,9 +53,8 @@ Always eager to learn and build something impactful, I aim to leverage technolog
 
 - 📮 **Postman API Fundamentals – Student Expert**  
   https://drive.google.com/drive/folders/1lLV4u_roKC-rpppD9nfXBJRLMmiRmlij
-.com/drive/u/0/folders/1lLV4u_roKC-rpppD9nfXBJRLMmiRmlij
 
----
+  ---
 
 ## 🚀 Tech Stack
 
