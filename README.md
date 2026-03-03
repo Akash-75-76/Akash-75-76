@@ -9,15 +9,17 @@ Always eager to learn and build something impactful, I aim to leverage technolog
 
 ## 📌 About Me
 
-- 🎓 Third-year **B.E. Information Technology** student (Expected 2027)
-- 🧑‍💻 **Product Developer Intern** with remote-first team experience
-- 🔭 Currently working on **Full Stack Web Development**
-- 🌱 Actively learning **Advanced React, Next.js, WordPress internals, Web 3.0, and system design**
-- 🧪 Experienced with **unit testing (Jest)** and production setups using **Nginx**
+- 🎓 **Third-year B.E. Information Technology** student (Expected 2027)
+- 🧑‍💻 **Product Developer Intern** with experience in remote-first teams
+- ☁️ **AWS Certified Cloud Practitioner**
+- 🔭 Currently working on **Full Stack Web Development & Cloud-based systems**
+- 🌱 Learning **Advanced React, Next.js, WordPress internals, DevOps, Web 3.0 & System Design**
+- 🧪 Experience with **unit testing (Jest)** and **production setups using Nginx**
 - 🤝 **Selected Contributor – GirlScript Summer of Code (GSSoC)**
-- 💬 Ask me about tech — I enjoy explaining **code logic, architecture, scalability, and security**
-- 🎨 I enjoy building and experimenting with new tech stacks
-- 📚 In my free time, I love reading books
+- 💬 I enjoy explaining **code logic, architecture decisions, scalability & security**
+- 🎨 Curious builder who loves experimenting with new technologies
+- 📚 In my free time, I enjoy reading books
+
 
 ---
 
@@ -40,14 +42,18 @@ Always eager to learn and build something impactful, I aim to leverage technolog
 
 ## 🧾 Certifications
 
-- ☁️ **AWS Cloud Practitioner Essentials**  
-  🔗 https://drive.google.com/drive/u/0/folders/1lLV4u_roKC-rpppD9nfXBJRLMmiRmlij
+-☁️ **AWS Certified Cloud Practitioner**  
+  https://drive.google.com/drive/folders/1lLV4u_roKC-rpppD9nfXBJRLMmiRmlij
 
-- 🚀 **Getting Started with DevOps on AWS**  
-  🔗 https://drive.google.com/drive/u/0/folders/1lLV4u_roKC-rpppD9nfXBJRLMmiRmlij
+- 🚀 **AWS Cloud Practitioner Essentials**  
+  https://drive.google.com/drive/folders/1lLV4u_roKC-rpppD9nfXBJRLMmiRmlij
+
+- ⚙️ **Getting Started with DevOps on AWS**  
+  https://drive.google.com/drive/folders/1lLV4u_roKC-rpppD9nfXBJRLMmiRmlij
 
 - 📮 **Postman API Fundamentals – Student Expert**  
-  🔗 https://drive.google.com/drive/u/0/folders/1lLV4u_roKC-rpppD9nfXBJRLMmiRmlij
+  https://drive.google.com/drive/folders/1lLV4u_roKC-rpppD9nfXBJRLMmiRmlij
+.com/drive/u/0/folders/1lLV4u_roKC-rpppD9nfXBJRLMmiRmlij
 
 ---
 
