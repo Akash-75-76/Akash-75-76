@@ -23,9 +23,6 @@ Always eager to learn and build something impactful, I aim to leverage technolog
 
 ---
 
-## 📄 Resume
-
-🔗 [View Resume (PDF)](https://drive.google.com/file/d/1aO1H3QPBuQzHpujmFuwBmKhKdAlTuaT_/view?usp=sharing)
 
 
 ## 🌍 Open Source & Community
