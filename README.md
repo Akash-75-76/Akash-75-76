@@ -99,9 +99,7 @@ My experience spans full-stack development, backend engineering, API development
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akash-75-76&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akash-75-76&theme=tokyonight&hide_border=true)](https://github.com/Akash-75-76)
 
 ## 📈 Contribution Activity
 
